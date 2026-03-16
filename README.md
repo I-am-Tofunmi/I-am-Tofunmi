@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there, I'm Tofunmi</h1>
+<h1 align="center">Hi, I'm Omololu Tofunmi Tunde</h1>
 
 ###
 
