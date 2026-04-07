@@ -14,7 +14,7 @@
 
 ---
 
- # Omololu Tofunmi (Panda) — Frontend Dev | Data Analyst | Full-Stack in Progress 👋
+ Omololu Tofunmi (Panda) — Frontend Dev | Data Analyst | Full-Stack in Progress 👋
 
 ---
 
