@@ -65,7 +65,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://stats.quine.sh/I-am-Tofunmi/github?theme=dark)](https://quine.sh)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=I-am-Tofunmi&theme=radical" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=I-am-Tofunmi&theme=radical&hide_border=true)
 
