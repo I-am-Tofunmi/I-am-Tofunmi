@@ -1,71 +1,92 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+```bash
+$ cat /etc/hostname
+panda
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
-
-###
+$ finger panda
+Login: panda                        Name: Omololu Tofunmi
+Shell: /bin/bash                    Location: Lagos, Nigeria
+Status: frontend · full-stack · data analytics
+Motto:  building tech that matters for African communities, one commit at a time
+```
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=I-am-Tofunmi.I-am-Tofunmi&"  />
+
+### panda | cs student @ unilag
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tofunmi-a33a00345)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/tofunmiffx1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/I.am%20Tofunmi)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=I-am-Tofunmi.I-am-Tofunmi)
+
 </div>
 
-###
+---
 
-<h1 align="center">Hi, I'm Omololu Tofunmi</h1>
+> $ cat ./about.md
+```bash
+- 🌍 I'm from Lagos, Nigeria
+- 🎓 CS student @ University of Lagos
+- 💼 Frontend Intern @ DSHub (Cohort A 2026)
+- 🌱 Currently learning React, Python & Data Analysis
+- ⚡ In my free time I build solutions for African communities & take night street photos
+```
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🌍 I'm from Lagos, Nigeria<br>- 🎓 CS student @ University of Lagos<br>- 💼 I'm working as a Frontend Intern @ DSHub (Cohort A 2026)<br>- 🌱 I'm currently learning React, Python & Data Analysis<br>- ⚡ In my free time I build solutions for African communities & take night street photos</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+> $ ls ./tech-stack/
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=I-am-Tofunmi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
-###
+---
+
+> $ cat ./projects.md
+```bash
+$ ls ./featured-projects/
+```
+
+| 🚀 Project | 📝 Description | 🛠️ Tech |
+|---|---|---|
+| 🌾 [AgriWise](https://agri-wise-dusky.vercel.app) | AI-powered smart agriculture platform | HTML, CSS, JS |
+| 🏥 ElderCare AI | Voice-first health support for elderly users | HTML, CSS, JS, Flask |
+| 💸 SafeFlow | AI-powered financial safety app | HTML, CSS, JS |
+
+---
+
+> $ cat ./stats.md
+
+<div align="center">
+
+![Panda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-am-Tofunmi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Tofunmi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=I-am-Tofunmi&theme=radical&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+<div align="center">
+```bash
+$ echo "thanks for visiting, let's build something great together!"
+thanks for visiting, let's build something great together!
+```
+
+</div>
