@@ -65,10 +65,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=I-am-Tofunmi&theme=radical" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=I-am-Tofunmi&theme=radical" width="49%"/>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=I-am-Tofunmi&theme=radical&hide_border=true)
 
 </div>
