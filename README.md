@@ -14,7 +14,7 @@
 
 ---
 
-# Hi, I'm Omololu Tofunmi 👋
+#Hi, I'm Omololu Tofunmi (Panda) — Frontend Dev | Data Analyst | Full-Stack in Progress 👋
 
 ---
 
@@ -22,11 +22,11 @@
 
 - 🌍 I'm from Lagos, Nigeria
 - 🎓 CS student @ University of Lagos
-- 💼 Frontend Intern @ DSHub (Cohort A 2026)
-- 🌱 Currently learning React, Python & Data Analysis
+- 💻 Python Training Program @ NITHUB
+- 🌱 Currently learning React & IT Automation with Python
 - ⚡ In my free time I build solutions for African communities & take night street photos
-- 🏆 Hackathon builder — SafeFlow, ElderCare AI, AgriWise
-
+- 🏆 Hackathon builder — SafeFlow & ElderCare AI
+  
 ---
 
 ## 🛠️ Languages and Tools
