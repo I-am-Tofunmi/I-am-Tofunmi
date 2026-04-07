@@ -65,7 +65,7 @@
 
 <div align="center">
 
-![Panda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-am-Tofunmi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+![Panda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=I-am-Tofunmi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Tofunmi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
