@@ -67,7 +67,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=I-am-Tofunmi&theme=radical" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-Tofunmi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=I-am-Tofunmi&theme=radical" width="49%"/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=I-am-Tofunmi&theme=radical&hide_border=true)
 
