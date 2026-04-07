@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌍 I'm from Lagos, Nigeria
+- 🌍 I'm from Ogun State, Nigeria
 - 🎓 CS student @ University of Lagos
 - 💻 Python Training Program @ NITHUB
 - 🌱 Currently learning React & IT Automation with Python
