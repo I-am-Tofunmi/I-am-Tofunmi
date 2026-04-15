@@ -61,9 +61,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🌾 AgriWise| AI-powered smart agriculture platform | HTML, CSS, JS |
-| 🏥 ElderCare AI | Voice-first health support for elderly users | HTML, CSS, JS, Flask |
-| 💸 SafeFlow | AI-powered financial safety app | HTML, CSS, JS |
+| 🌾 AgriWise| AI-powered smart agriculture platform for smallholder farmers | React, Flask, Python |
+| 🏥 ElderCare AI | Voice-first health support for elderly users | React, Flask, Python, JS |
+| 💸 SafeFlow | AI-powered financial safety app | React, FastAPI, Python |
 
 ---
 
