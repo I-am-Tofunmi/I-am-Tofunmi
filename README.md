@@ -71,11 +71,10 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=I-am-Tofunmi&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=I-am-Tofunmi&theme=radical&hide_border=true)
 
 </div>
 
----
 
 <div align="center">
 
