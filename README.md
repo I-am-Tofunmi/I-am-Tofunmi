@@ -23,7 +23,7 @@
 - 🌍 I'm from Ogun State, Nigeria
 - 🎓 CS student @ University of Lagos
 - 💻 Python Training Program @ NITHUB
-- 🌱 Currently learning React & IT Automation with Python
+- 🌱 Currently learning React/Typescript & IT Automation with Python
 - ⚡ In my free time I build solutions for African communities & take night street photos
 - 🏆 Hackathon builder — SafeFlow & ElderCare AI
   
