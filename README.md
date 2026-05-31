@@ -14,7 +14,7 @@
 
 ---
 
- Tofunmi Omololu (Panda) — Frontend Dev | Data Analyst | Full-Stack in Progress 👋
+ Tofunmi Omololu (Panda) — Software Developer | Data Analyst | Building things that matter 🔥"
 
 ---
 
@@ -22,10 +22,12 @@
 
 - 🌍 I'm from Ogun State, Nigeria
 - 🎓 CS student @ University of Lagos
-- 💻 Python Training Program @ NITHUB
-- 🌱 Currently learning React/Typescript & IT Automation with Python
+- 💼 Software Developer Intern @ Toobrains
+- 🤝 Contract Backend Developer @ Zora African Market UK
+- 💻 Python Training Program @ NITHUB | TechCrush Frontend Cohort 7
+- 🌱 Currently deepening my backend skills with Node.js, Express.js and PostgreSQL
 - ⚡ In my free time I build solutions for African communities & take night street photos
-- 🏆 Hackathon builder — SafeFlow & ElderCare AI
+- 🏆 Hackathon builder — SafeFlow, ElderCare AI & SquadMind
   
 ---
 
@@ -52,6 +54,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
 
 </div>
 
@@ -64,6 +70,7 @@
 | 🌾 AgriWise| AI-powered smart agriculture platform for smallholder farmers | React, Flask, Python |
 | 🏥 ElderCare AI | Voice-first health support for elderly users | React, Flask, Python, JS |
 | 💸 SafeFlow | AI-powered financial safety app | React, FastAPI, Python |
+| 🧠 SquadMind | AI-powered financial intelligence and credit scoring platform for Nigerian SMEs | React, Vite, FastAPI |
 
 ---
 
