@@ -14,7 +14,7 @@
 
 ---
 
- Tofunmi Omololu (Panda) — Software Developer | Data Analyst | Building things that matter 🔥"
+ Tofunmi Omololu (Panda) — Software Developer | Data Analyst | Building things that matter 🔥
 
 ---
 
