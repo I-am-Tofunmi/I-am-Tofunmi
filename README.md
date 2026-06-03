@@ -14,7 +14,7 @@
 
 ---
 
- Tofunmi Omololu (Panda) — Software Developer | Data Analyst | Building things that matter 🔥"
+> Tofunmi Omololu (Panda) — Software Developer | Data Analyst | Building things that matter 🔥
 
 ---
 
@@ -28,7 +28,7 @@
 - 🌱 Currently deepening my backend skills with Node.js, Express.js and PostgreSQL
 - ⚡ In my free time I build solutions for African communities & take night street photos
 - 🏆 Hackathon builder — SafeFlow, ElderCare AI & SquadMind
-  
+
 ---
 
 ## 🛠️ Languages and Tools
@@ -43,21 +43,23 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+<br/>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<br/>
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -67,7 +69,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🌾 AgriWise| AI-powered smart agriculture platform for smallholder farmers | React, Flask, Python |
+| 🌾 AgriWise | AI-powered smart agriculture platform for smallholder farmers | React, Flask, Python |
 | 🏥 ElderCare AI | Voice-first health support for elderly users | React, Flask, Python, JS |
 | 💸 SafeFlow | AI-powered financial safety app | React, FastAPI, Python |
 | 🧠 SquadMind | AI-powered financial intelligence and credit scoring platform for Nigerian SMEs | React, Vite, FastAPI |
@@ -78,10 +80,11 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=I-am-Tofunmi&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=I-am-Tofunmi&theme=radical&hide_border=true)
 
 </div>
 
+---
 
 <div align="center">
 
